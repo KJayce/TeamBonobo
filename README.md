@@ -1,5 +1,5 @@
 # Environnement optimisé pour l'apprentissage
-DAN
+DAN SAFIA
 
 ## Projet 1: le contenu
 
